@@ -1,6 +1,6 @@
 {
   "name": "action-yarn-publish",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A github action that will publish the current package upon package.json version changes",
   "main": "build/action.js",
   "repository": "https://github.com/luvies/action-yarn-publish",
